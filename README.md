@@ -24,3 +24,12 @@ WorkBench: MySQL Workbench 8.0 CE </br>
 IDE : Eclipse IDE 2023‑03 </br>
 Connecters: mysql-connector-java-8.0.11 </br>
 Server: Tomcat-servlet-api-9.0.55 </br>
+
+![ngo1](https://github.com/bhaktsg/NGOManagementSystem/assets/109686977/44a00118-cc30-4491-949f-1aa7a51a1191)
+
+![ngo2](https://github.com/bhaktsg/NGOManagementSystem/assets/109686977/c05552c3-f1bb-4985-aec5-c9cefbd0a891)
+
+![ngo3](https://github.com/bhaktsg/NGOManagementSystem/assets/109686977/d68ba0e5-1a18-4fd8-bc76-6014b36ee79a)
+
+![ngo4](https://github.com/bhaktsg/NGOManagementSystem/assets/109686977/1372c576-0de2-402b-9c01-d062c54d8880)
+
